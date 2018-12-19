@@ -13,13 +13,13 @@ Print {"Hello World"
 }
 ```
 
-
 ### First Program to print "Hello World"
 > This an example of quote
-> This is not quote. Plain text.
 
 
-## Emoji Cheatsheet - https://www.webpagefx.com/tools/emoji-cheat-sheet/
+#### Emoji Cheatsheet - https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+##### Another great resource https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#blockquotes
 
 
 *Best*
